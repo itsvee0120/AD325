@@ -62,9 +62,9 @@ void printPairs(int[] array) {
 
 | **Metric**         | **Complexity** |
 |---------------------|----------------|
-| **Time Complexity** | O(n²)
-|
-| **Space Complexity**| O(1)           |
+| **Time Complexity** |    O(n²)      |
+| **Space Complexity**| O(1)          |
+
 
 ### Reasoning:
 1. **Time Complexity** is **O(n²)** because the function iterates through the `array` twice in
