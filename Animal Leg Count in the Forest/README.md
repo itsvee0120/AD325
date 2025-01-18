@@ -128,12 +128,12 @@ cd "Animal Leg Count in the Forest"
 
 2. Compile the Java file:
 ```bash
-javac AnimalCounter.java
+javac Main.java
 ```
 
 3. Run the program:
 ```bash
-java AnimalCounter
+java Main
 ```
 
 ---
