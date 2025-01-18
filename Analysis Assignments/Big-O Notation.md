@@ -3,11 +3,12 @@
 **Code Analysis:** 
 Below are several code snippets in your chosen language (Python or Java). For each snippet, perform the following tasks:
 
-Determine the time complexity, explaining your reasoning step by step.
-Determine the space complexity, providing a rationale for your analysis.
-Suggest any possible improvements to reduce the complexity, if applicable.
-Submission: Submit a document containing your analysis and explanations. 
-Include any code modifications you propose to improve the algorithm's efficiency.
+
+> determine the time complexity, explaining your reasoning step by step.  
+> determine the space complexity, providing a rationale for your analysis.  
+> suggest any possible improvements to reduce the complexity, if applicable.  
+> submission: submit a document containing your analysis and explanations.  
+> include any code modifications you propose to improve the algorithm's efficiency.
 ---
 
 
