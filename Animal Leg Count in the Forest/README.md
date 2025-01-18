@@ -122,7 +122,8 @@ The program has been tested with various input scenarios:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-repo-name/AnimalLegCounter.git
+git clone https://github.com/itsvee0120/AD325
+cd "Animal Leg Count in the Forest"
 ```
 
 2. Compile the Java file:
