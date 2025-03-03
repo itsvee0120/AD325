@@ -96,7 +96,7 @@ This class represents a node in the decision tree, with the following attributes
 
 2. Navigate to the project directory:
    ```bash
-   cd Financial Institution Binary Tree
+   cd decision-tree-depth
    ```
 
 3. Compile and run the Java program:
