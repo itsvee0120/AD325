@@ -34,16 +34,4 @@ test: 1
 this: 1
 world: 2
 ```
-
-## Complexity Analysis
-- **Time Complexity:**
-    - Processing input and splitting words: **O(n)**, where `n` is the number of characters in the input.
-    - Inserting words into HashMap: **O(m)**, where `m` is the number of unique words.
-    - Sorting words using TreeMap: **O(m log m)**.
-    - Overall: **O(n + m log m)**.
-
-- **Space Complexity:**
-    - Storing words in HashMap: **O(m)**.
-    - Storing words in TreeMap: **O(m)**.
-    - Overall: **O(m)**.
-
+*/
